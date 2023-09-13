@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mathula2596
-- 👀 I’m interested in Software and Web Development
+- 👀 I’m interested in Software, Web Development and a bit of data alaysis
 - 🌱 I’m currently following MSc in Computing Systems at NTU
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 Please contact me using mathula2504@gmail.com
